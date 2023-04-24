@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Хватов Максим
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Максим
+last_name: Хватов
 
 # Status emoji
 status:
@@ -14,34 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН
+    url: https://rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Интересуюсь рисованием и созданием веб-приложений
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Frontend
+  - Математика
+  - Рисованеи
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Фундаментальная информатика
+      year: 2020
+    - course: Курс английского языка
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +45,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: https://www.elibrary.ru/author_info.asp?isold=1
+  - icon: book
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://id.elsevier.com/settings/redirect?code=xwhHNjVgfMEakhshbyfUVynWsT_Wj0CDE-tOIPl5
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://independent.academia.edu/%D0%A5%D0%B2%D0%B0%D1%82%D0%BE%D0%B2%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: researcher
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Maksim-Hvatov-2?ev=hdr_xprf
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Хватов Максим - студент РУДН на бакалавриате. Изучает React.js и frontyend-разработку. Из хобби - это рисование, чтение и изучение иностранных языков.
 {style="text-align: justify;"}
